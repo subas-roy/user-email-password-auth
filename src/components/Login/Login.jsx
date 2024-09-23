@@ -2,7 +2,7 @@
 const Login = () => {
   return (
     <div>
-      <h2 className="text-3xl">Please login</h2>
+      <h2 className="text-3xl">Please Login</h2>
     </div>
   );
 };
